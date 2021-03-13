@@ -1,0 +1,30 @@
+\begin{table*}[htbp]
+\caption{Comparative Analysis of Classification Accuracy}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+&\multicolumn{4}{|c|}{\textbf{Classification Accuracy (\%)}}&\multicolumn{4}{|c|}{\textbf{Classification Accuracy (\%)}}&\multicolumn{4}{|c|}{\textbf{Classification Accuracy (\%)}}\\
+\cline{2-5} 
+\cline{6-9} 
+\cline{10-13}
+\textbf{Techniques} & \textbf{\textit{BB}}& \textbf{\textit{BS }}& \textbf{\textit{BSBR}}& \textbf{\textit{RB}} & \textbf{\textit{BB}}& \textbf{\textit{BS }}& \textbf{\textit{BSBR}}& \textbf{\textit{RB}}& \textbf{\textit{BB}}& \textbf{\textit{BS }}& \textbf{\textit{BSBR}}& \textbf{\textit{RB}}\\
+\hline
+
+ Technique&93.3\% &93.3\%&100\%&93.3\%&95\%&86.7\%&86.7\%&80\%&80\%&83.4\%&80\%&83.4\%\\\hline
+
+ Technique&93.3\% &93.3\%&100\%&93.3\%&95\%&86.7\%&86.7\%&80\%&80\%&83.4\%&80\%&83.4\%\\\hline
+
+ Technique&93.3\% &93.3\%&100\%&93.3\%&95\%&86.7\%&86.7\%&80\%&80\%&83.4\%&80\%&83.4\%\\\hline
+
+ Technique&93.3\% &93.3\%&100\%&93.3\%&95\%&86.7\%&86.7\%&80\%&80\%&83.4\%&80\%&83.4\%\\\hline
+
+ Technique&93.3\% &93.3\%&100\%&93.3\%&95\%&86.7\%&86.7\%&80\%&80\%&83.4\%&80\%&83.4\%\\\hline
+
+ Technique&93.3\% &93.3\%&100\%&93.3\%&95\%&86.7\%&86.7\%&80\%&80\%&83.4\%&80\%&83.4\%\\\hline
+
+ Technique&93.3\% &93.3\%&100\%&93.3\%&95\%&86.7\%&86.7\%&80\%&80\%&83.4\%&80\%&83.4\%\\\hline
+
+\end{tabular}
+\label{tab2}
+\end{center}
+\end{table*}
